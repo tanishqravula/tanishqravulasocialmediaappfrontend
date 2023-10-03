@@ -21,7 +21,7 @@ export const TEST_USER = {
   password: 'atithi@101',
 };
 
-export const URL = 'https://tanishqravulasocialmediaapp.vercel.app/';
+export const URL = 'https://tanishqravulasocialmediaapp-xamz.vercel.app/api';
 
 export const DEBOUNCED_DELAY = 250;
 
