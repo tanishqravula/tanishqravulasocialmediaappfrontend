@@ -17,8 +17,8 @@ export const LOGIN_CLICK_TYPE = {
 };
 
 export const TEST_USER = {
-  email: 'atithi.bhagwan@gmail.com',
-  password: 'atithi@101',
+  email: 'tanishqtester@gmail.com',
+  password: 'tanishq@14',
 };
 
 export const URL = 'https://tanishqravulasocialmediaapp-xamz.vercel.app/api';
