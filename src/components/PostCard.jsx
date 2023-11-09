@@ -110,7 +110,7 @@ const PostCard = ({ postData, isBookmarkedByMainUser = false }) => {
       message: 'Copied to clipboard',
     });
     navigator.clipboard.writeText(
-      `https://gutargu-social.vercel.app/post/${postId}`
+      `https://tanishqravulasocialmediaappfrontend.vercel.app/post/${postId}`
     );
   };
 
